@@ -2,7 +2,7 @@
 
 ## Tiimi
 
-||
+|||
 | --- | :--- |
 |<img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="300px">| Nimi: Jari Loippo <br>Email: K1729@student.jamk.fi <br>puh: 040 716 2132|
 |<img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Rami.jpg" width="300px">|Nimi: Rami Ojala <br>Email: K8412@student.jamk.fi <br>puh: 045 861 6887|
