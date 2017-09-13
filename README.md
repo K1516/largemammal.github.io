@@ -41,7 +41,7 @@
         <td>
             Nimi: Risto Laine<br>
            Email: K1516@student.jamk.fi   <br>
-            puh: <br>
+            puh: 040 077 9137<br>
         </td>
     </tr>
 </table>
