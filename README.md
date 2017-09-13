@@ -2,6 +2,13 @@
 
 ## Tiimi
 
+<style>
+table, tr, td {
+    border-style : solid 1px;
+    border-color: black;
+}
+</style>
+
 <table>
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="300px"></td>
