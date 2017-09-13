@@ -2,12 +2,6 @@
 
 ## Tiimi
 <center>
-<style>
-table, tr, td {
-    border-style : solid 1px;
-    border-color: black;
-}
-</style>
 
 <table>
     <tr>
