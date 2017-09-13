@@ -2,7 +2,7 @@
 
 ## Tiimi
 
-<table align=center>
+<table>
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="300px"></td>
         <td>
