@@ -1,7 +1,6 @@
 # Gulag
 
 ## Tiimi
-<center>
 
 <table>
     <tr>
@@ -45,5 +44,3 @@
         </td>
     </tr>
 </table>
-</center>
-
