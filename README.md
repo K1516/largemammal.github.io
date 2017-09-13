@@ -1,7 +1,7 @@
 # Gulag
 
 ## Tiimi
-
+<center>
 <style>
 table, tr, td {
     border-style : solid 1px;
@@ -51,5 +51,5 @@ table, tr, td {
         </td>
     </tr>
 </table>
-
+</center>
 
