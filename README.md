@@ -2,6 +2,8 @@
 
 ## Tiimi
 
+<center>
+  
 |||
 | --- | :--- |
 |<img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Jari.jpg" width="300px">| Nimi: Jari Loippo <br>Email: K1729@student.jamk.fi <br>puh: 040 716 2132|
@@ -10,3 +12,4 @@
 |<img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/ville.jpg" width="300px">|Nimi: Ville Rantala <br>Email: K1533@student.jamk.fi <br>puh: 040 867 7992|
 ||Nimi: Risto Laine <br>Email: K1516@student.jamk.fi <br>puh:|
 
+</center>
